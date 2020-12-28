@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+    <!-- report theme --> <!-- standard, dark -->
+    <theme>stadard</theme>
+  
+    <!-- document encoding -->  <!-- defaults to UTF-8 -->
+    <encoding>UTF-8</encoding>
+    
+    <!-- protocol for script and stylesheets -->   <!-- defaults to https -->
+    <protocol>https</protocol>
+    
+    <!-- title of the document -->
+    <documentTitle>SourceVu - Cucumber Framework</documentTitle>
+    
+    <!-- report name - displayed at top-nav -->
+    <reportName>
+    
+    
+        <![CDATA[
+           
+            
+            <img src="data:image/png;base64,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">
+            
+            <!-- -->
+        ]]>   
+    
+    	<!-- Please use following website to convert your logo to Base64 type (https://www.base64-image.de/) in order
+    	to display the logo in the extent report. -->
+    
+    SourceVu - Test Execution Reporter
+    
+    
+    </reportName>
+    
+    <!-- global date format override -->  <!-- defaults to yyyy-MM-dd -->
+    <dateFormat>yyyy-MM-dd</dateFormat>
+    
+    <!-- global time format override -->   <!-- defaults to HH:mm:ss -->
+    <timeFormat>HH:mm:ss</timeFormat>
+    
+    <!-- custom javascript -->
+     <scripts>
+      <![CDATA[
+        $(document).ready(function() {
+         $('.brand-logo.blue.darken-3').css('display','none');
+        
+        });
+        
+         
+      ]]>
+      
+
+            
+    </scripts>
+
+    
+    <!-- custom styles -->
+    <styles>
+           <![CDATA[
+        
+         .report-name { padding-left: 25px; } .report-name > img { float: left;height: 90%;margin-left: 0px;margin-top: 2px;width: auto; }
+         .report-name {font-size:20px;} .report-name {font-family:Arial, Helvetica, sans-serif;}
+      ]]>
+      
+
+    </styles>
+  </configuration>
+</extentreports>
